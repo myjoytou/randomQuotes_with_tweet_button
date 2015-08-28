@@ -1,0 +1,52 @@
+body {
+  /* background: red; */
+  text-align: center;
+  margin: 0px auto;
+  background-color: #cdcdcd;
+  font-family: 'Tangerine', serif;
+  background: url("http://www.freebiesgallery.com/wp-content/uploads/2013/08/light-blue-background-1.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+.container {
+  width: 600px;
+}
+h1 {
+  text-shadow: 4px 4px 4px #aaa;
+  margin: 10px auto;
+  font-size: 4em;
+  color: #333;
+  font-weight: 800;
+}
+p {
+  font-family: serif;
+  font-size: 20px;
+}
+button {
+  height: 45px;
+  width: 130px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  padding-bottom: 5px;
+  font-weight: 800;
+  font-size: 2em;
+  background: #dbf;
+  border: 1px solid #dbf;
+  border-radius: 10px;
+  box-shadow: 4px 4px 5px black;
+}
+div#qoutes-div {
+  height: auto;
+  min-height: 100px;
+  width: 600px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 30px;
+  box-shadow: -8px 8px 8px gray;
+  font-size: 2em;
+  word-wrap: break-word;
+  font-family: 'Cardo', serif;
+  font-size: 1.5em;
+  padding: 20px;
+}
+.author {
+  font-style: italic;
+}
